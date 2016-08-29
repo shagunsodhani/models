@@ -21,7 +21,7 @@ We used the Gigaword dataset described in
 https://arxiv.org/pdf/1602.06023.pdf
 
 We cannot provide the dataset due to the license. See ExampleGen in data.py
-about the data format. data/data contains a toy example. Also see data/vocab
+about the data format or use decodeData method from utils.py. data/data contains a toy example. Also see data/vocab
 for example vocabulary format. In <b>How To Run</b> below, users can use toy
 data and vocab provided in the data/ directory to run the training by replacing
 the data directory flag.
